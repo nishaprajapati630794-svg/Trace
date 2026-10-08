@@ -1,0 +1,7 @@
+{
+  "name": "GNN-TraceOps Studio",
+  "description": "Spatial-Temporal GNN Microservice Anomaly Detection and Root Cause Analysis Engine with Interactive Topology, OTel Spans, and GNNExplainer",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
